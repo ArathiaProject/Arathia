@@ -6,4 +6,5 @@ Pages:
 - [*World Description*](WorldDescription.md)
 - [*Zephyr's Necromancy*](History/ZephyrsNecromancy.md)
 - [*The Legend of Amara*](History/LegendOfAmara.md)
+- [*The Legend of Lyra*](History/LegendOfLyra.md)
 - [*Origins*](History/Origins.md)

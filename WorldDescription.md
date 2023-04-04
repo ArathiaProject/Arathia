@@ -1,3 +1,5 @@
+# World Description
+
 In the world of Arathia, magic is an integral part of everyday life. It flows through the land and imbues all living creatures with unique abilities and potential. However, not everyone can wield magic, and those who can are categorized based on their abilities.
 
 At the lowest tier of magic are the Mundanes, those who have no magical ability whatsoever. They make up the majority of the population in Arathia, and while they can't use magic, they are still an important part of society. They usually work in manual labor jobs, such as farming or construction, or in service jobs, such as waitressing or cleaning.
